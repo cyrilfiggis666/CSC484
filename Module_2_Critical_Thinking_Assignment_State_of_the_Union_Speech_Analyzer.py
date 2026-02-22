@@ -100,7 +100,7 @@ def main():
     for word, count in top_words:
         print(f"{word:<20}{count:>10}")
 
-    # Calulates top ten longest words
+    # Calculates top ten longest words
     unique_words = set(words)
     top_ten_longest = sorted(unique_words, key=len, reverse=True)[:10]
 
