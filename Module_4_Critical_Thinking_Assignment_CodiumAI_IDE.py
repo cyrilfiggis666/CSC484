@@ -1,7 +1,7 @@
 """Pseudocode
 Begin program
 
-Document the module using a module-level docstring.
+Document the module using a module level docstring.
 
 Define a User class to represent a user account.
 
